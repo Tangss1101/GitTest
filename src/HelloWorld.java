@@ -4,4 +4,5 @@
 public class HelloWorld {
 
     private String aaa;
+    private String bbb;
 }
